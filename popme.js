@@ -22,7 +22,7 @@ $(document).ready(function()
         e.preventDefault();            
 
         window.open(direct_link_ads,"_blank");
-		window.open(direct_link_ads_2,"_blank");
+	//window.open(direct_link_ads_2,"_blank");
         window.location.href = go_current;
 		
     });
